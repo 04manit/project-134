@@ -1,0 +1,15 @@
+button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: #fff;
+    color: black;
+    border: none;
+}
+body{
+    background-image: linear-gradient(to right, #FF0060, #FF9CA4, #FFCC9E, #72F5E1, #73C3ED, #56A9FB);
+}
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
